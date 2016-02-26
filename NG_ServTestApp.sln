@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NG_TestServApp", "NG_TestServApp\NG_TestServApp.csproj", "{EA89BA5E-F519-44AB-A339-EF4A1CEEE4B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestService", "RestService\RestService.csproj", "{89692A0C-7E7D-45E9-8D5C-59D4BF89A03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA89BA5E-F519-44AB-A339-EF4A1CEEE4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA89BA5E-F519-44AB-A339-EF4A1CEEE4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA89BA5E-F519-44AB-A339-EF4A1CEEE4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA89BA5E-F519-44AB-A339-EF4A1CEEE4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89692A0C-7E7D-45E9-8D5C-59D4BF89A03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89692A0C-7E7D-45E9-8D5C-59D4BF89A03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89692A0C-7E7D-45E9-8D5C-59D4BF89A03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89692A0C-7E7D-45E9-8D5C-59D4BF89A03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
